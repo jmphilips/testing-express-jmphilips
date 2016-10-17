@@ -4,6 +4,6 @@ const { isTrue } = require('chai').assert
 
 describe('Test Suite', () => {
     it('true should be true', () => {
-        isTrue(false)
+        isTrue(true)
     })
 })
